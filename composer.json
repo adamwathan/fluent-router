@@ -1,0 +1,20 @@
+{
+    "name": "adamwathan/fluent-router",
+    "description": "",
+    "authors": [
+        {
+            "name": "Adam Wathan",
+            "email": "adam.wathan@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "AdamWathan\\FluentRouter\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
